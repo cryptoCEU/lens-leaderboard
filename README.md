@@ -1,4 +1,4 @@
-<img title="a title" alt="Alt text" width="480" src="http://cryptoplaza.es/wp-content/uploads/2021/05/logo.png">
+<img title="a title" alt="Alt text" src="https://formacion.cryptoplaza.es/assets/img/logo/cryptoplaza-logo.png">
 
 # CryptoPlaza Lens Leaderboard
 
