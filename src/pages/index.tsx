@@ -76,8 +76,7 @@ const Home: FC = () => {
 				<div className="pb-6 space-y-1 pt-6 md:pt-0 px-4 md:px-0">
 					<h1 className="text-4xl font-bold text-center mb-3">Lens Leaderboard</h1>
 					<p className="text-black/60 max-w-prose mx-auto text-center">
-						Open protocols offer new levels of transparency. This leaderboard uses 100% public data to rank
-						the most popular and active profiles on the Lens Protocol.
+						This leaderboard uses 100% public data to rank CryptoPlaza profiles on the Lens Protocol.
 					</p>
 				</div>
 				<div className="space-x-6 mb-6">
