@@ -27,9 +27,9 @@ const filters: Record<'followers' | 'posts' | 'collects' | 'active', Filter> = {
 }
 
 const meta = {
-	title: `Lens Leaderboard: Most followed, active, collected & shared profiles`,
-	description: `Open protocols offer new levels of transparency. This leaderboard uses 100% public data to rank notable profiles on the Lens Protocol.`,
-	image: `https://leaderboard.withlens.app${cardImg.src}`,
+	title: `CryptoPlaza Lens Leaderboard`,
+	description: `This leaderboard uses 100% public data to rank CryptoPlaza profiles on the Lens Protocol.`,
+	image: `https://lens-leaderboard-vert.vercel.app/${cardImg.src}`,
 }
 
 const Home: FC = () => {
