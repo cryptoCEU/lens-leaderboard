@@ -128,14 +128,14 @@ const Home: FC = () => {
 					</div>
 				</div>
 				<p className="md:absolute bottom-4 md:bottom-6 inset-x-0 text-center text-white/90 pt-4 pb-6 md:py-0">
-					Built by{' '}
+					Made with love by{' '}
 					<a
 						className="font-semibold text-white"
-						href="https://open.withlens.app/profile/m1guelpf.lens"
+						href="https://cryptoplaza.es/"
 						target="_blank"
 						rel="noreferrer"
 					>
-						@m1guelpf.lens
+						CryptoPlaza
 					</a>
 				</p>
 			</div>
