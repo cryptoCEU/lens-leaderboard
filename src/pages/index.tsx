@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import favicon from '@images/favicon.png';
+import favicon from '../public/favicon.png';
 import { Filter } from '@/types/ui'
 import bgImage from '@images/bg.png'
 import cardImg from '@images/card.jpg'
