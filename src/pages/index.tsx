@@ -58,13 +58,13 @@ const Home: FC = () => {
 				<meta name="description" content={meta.description} />
 
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://leaderboard.withlens.app" />
+				<meta property="og:url" content="https://cryptoplaza.es/" />
 				<meta property="og:title" content={meta.title} />
 				<meta property="og:description" content={meta.description} />
 				<meta property="og:image" content={meta.image} />
 
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta property="twitter:url" content="https://leaderboard.withlens.app" />
+				<meta property="twitter:url" content="https://cryptoplaza.es/" />
 				<meta property="twitter:title" content={meta.title} />
 				<meta property="twitter:description" content={meta.description} />
 				<meta property="twitter:image" content={meta.image} />
