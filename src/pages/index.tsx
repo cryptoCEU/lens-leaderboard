@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import favicon from '@images/favicon.png';
 import { Filter } from '@/types/ui'
 import bgImage from '@images/bg.png'
 import cardImg from '@images/card.jpg'
@@ -56,6 +57,7 @@ const Home: FC = () => {
 				<title>{meta.title}</title>
 				<meta name="title" content={meta.title} />
 				<meta name="description" content={meta.description} />
+				<link rel="shortcut icon" type="image/png" href={favicon.src} />
 
 				<meta property="og:type" content="website" />
 				<meta property="og:url" content="https://cryptoplaza.es/" />
